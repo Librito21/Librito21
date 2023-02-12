@@ -11,7 +11,8 @@ Mis aficiones son
 
 #### Donde he estudiado
 
-Hice hasta segundo de la eso en Cristo Rey, luego me fui al Miguel de Molinos y ahi termine la eso
+Hice hasta segundo de la eso en Cristo Rey, 
+* Luego me fui al Miguel de Molinos y ahi termine la eso
 
 <!--
 **Librito21/Librito21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
