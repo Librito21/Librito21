@@ -4,7 +4,11 @@
 #### 📫 Donde Encontrarme:
 * [Linkedin](https://www.linkedin.com/in/daniel-santamaria-martinez-381810239/)
 * [Instagram]()
-
+Mis aficiones son 
+* Jugar Videojuegos 
+* Leer Libros
+* Hacer paginas Web
+* Reparar Ordenadores
 <!--
 **Librito21/Librito21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
