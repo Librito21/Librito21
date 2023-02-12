@@ -6,10 +6,13 @@
 * [Instagram](https://www.instagram.com/danisanta__218/)
 
 Mis aficiones son 
-* Jugar Videojuegos 
-* Leer Libros
 * Hacer paginas Web
 * Reparar Ordenadores
+
+#### Donde he estudiado
+
+Hice hasta segundo de la eso en Cristo Rey, luego me fui al Miguel de Molinos y ahi termine la eso
+
 <!--
 **Librito21/Librito21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
