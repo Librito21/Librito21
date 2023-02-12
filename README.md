@@ -11,7 +11,7 @@ Mis aficiones son
 
 #### Donde he estudiado
 
-Hice hasta segundo de la eso en Cristo Rey, 
+* Hice hasta segundo de la eso en Cristo Rey, 
 * Luego me fui al Miguel de Molinos y ahi termine la eso
 
 <!--
