@@ -13,6 +13,7 @@ Mis aficiones son
 
 * Hice hasta segundo de la eso en Cristo Rey, 
 * Luego me fui al Miguel de Molinos y ahi termine la eso
+* Despues hice el Grado Medio de Sistemas Microinformaticos en Sanvalero
 
 <!--
 **Librito21/Librito21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
