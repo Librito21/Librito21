@@ -1,5 +1,5 @@
 ### Hola Soy Daniel Santamaria 👋
-✨ Actualmente estoy estudiando un grado medio de Informatica en el [Centro San valero](https://www.sanvalero.es/) ✨
+✨ Actualmente estoy estudiando un grado superior de Informatica en el [Centro San valero](https://www.sanvalero.es/) ✨
 
 #### 📫 Donde Encontrarme:
 * [Linkedin](https://www.linkedin.com/in/daniel-santamaria-martinez-381810239/)
